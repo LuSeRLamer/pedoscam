@@ -4,9 +4,9 @@ import random
 
 #######################################
 token = str(input("bot token: 5549770019:AAF7BkVxCWQ93z97TT-8_Hn0E3Bo3gnrgj0"))# токен бота
-qiwi_api = str(input("qiwi api: 2ecba400c05fb62cec8eae306a8dc718"))
+qiwi_api = str(input("qiwi api: *"))
 qiwi_nickname = str(input("qiwi nick: TUTER176")) # ник киви
-qiwi_number = str(input("phone number: 79190306150")) # номер телефона от киви
+qiwi_number = str(input("phone number: 123456789")) # номер телефона от киви
 photo_price = 10 # цена фото
 video_price = 20 # цена видео
 all = 5000 # цена за полный пак
